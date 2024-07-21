@@ -1128,3 +1128,701 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.07.21-23.29.56:882][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.039743 secs
 [2024.07.21-23.29.56:882][  1]LogLiveCoding: Display: LiveCodingConsole Arguments: ExpandingEditor Win64 Development
 [2024.07.21-23.29.57:118][  2]LogD3D12RHI: Cannot end block when stack is empty
+[2024.07.21-23.31.46:089][ 68]LogDerivedDataCache: C:/Users/s220493/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.074 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 365 files in 676 folders with total size 12 MiB.
+[2024.07.21-23.33.47:206][898]LogViewport: Scene viewport resized to 1526x447, mode Windowed.
+[2024.07.21-23.33.48:871][ 84]LogViewport: Scene viewport resized to 1526x461, mode Windowed.
+[2024.07.21-23.33.48:890][ 85]LogViewport: Scene viewport resized to 1526x477, mode Windowed.
+[2024.07.21-23.33.48:945][ 86]LogViewport: Scene viewport resized to 1526x564, mode Windowed.
+[2024.07.21-23.33.48:994][ 87]LogViewport: Scene viewport resized to 1526x597, mode Windowed.
+[2024.07.21-23.33.49:047][ 88]LogViewport: Scene viewport resized to 1526x632, mode Windowed.
+[2024.07.21-23.33.49:098][ 89]LogViewport: Scene viewport resized to 1526x650, mode Windowed.
+[2024.07.21-23.33.49:194][ 90]LogViewport: Scene viewport resized to 1526x652, mode Windowed.
+[2024.07.21-23.33.50:640][255]LogViewport: Scene viewport resized to 1526x647, mode Windowed.
+[2024.07.21-23.33.50:663][256]LogViewport: Scene viewport resized to 1526x631, mode Windowed.
+[2024.07.21-23.33.50:707][257]LogViewport: Scene viewport resized to 1526x586, mode Windowed.
+[2024.07.21-23.33.50:742][258]LogViewport: Scene viewport resized to 1526x558, mode Windowed.
+[2024.07.21-23.33.50:779][259]LogViewport: Scene viewport resized to 1526x529, mode Windowed.
+[2024.07.21-23.33.50:845][260]LogViewport: Scene viewport resized to 1526x493, mode Windowed.
+[2024.07.21-23.33.50:880][261]LogViewport: Scene viewport resized to 1526x480, mode Windowed.
+[2024.07.21-23.33.50:920][262]LogViewport: Scene viewport resized to 1526x474, mode Windowed.
+[2024.07.21-23.33.50:956][263]LogViewport: Scene viewport resized to 1526x471, mode Windowed.
+[2024.07.21-23.36.46:404][ 82]LogViewport: Scene viewport resized to 1014x303, mode Windowed.
+[2024.07.21-23.36.48:072][ 82]LogViewport: Scene viewport resized to 1526x471, mode Windowed.
+[2024.07.21-23.42.43:567][728]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.42.44:608][813]LogViewport: Scene viewport resized to 1526x473, mode Windowed.
+[2024.07.21-23.42.44:631][814]LogViewport: Scene viewport resized to 1526x484, mode Windowed.
+[2024.07.21-23.42.44:678][815]LogViewport: Scene viewport resized to 1526x528, mode Windowed.
+[2024.07.21-23.42.44:715][816]LogViewport: Scene viewport resized to 1526x571, mode Windowed.
+[2024.07.21-23.42.44:759][817]LogViewport: Scene viewport resized to 1526x638, mode Windowed.
+[2024.07.21-23.42.44:797][818]LogViewport: Scene viewport resized to 1526x682, mode Windowed.
+[2024.07.21-23.42.44:837][819]LogViewport: Scene viewport resized to 1526x711, mode Windowed.
+[2024.07.21-23.42.44:925][820]LogViewport: Scene viewport resized to 1526x737, mode Windowed.
+[2024.07.21-23.42.45:020][821]LogViewport: Scene viewport resized to 1526x739, mode Windowed.
+[2024.07.21-23.46.51:884][375]LogViewport: Scene viewport resized to 1526x736, mode Windowed.
+[2024.07.21-23.46.51:906][376]LogViewport: Scene viewport resized to 1526x692, mode Windowed.
+[2024.07.21-23.46.51:955][377]LogViewport: Scene viewport resized to 1526x579, mode Windowed.
+[2024.07.21-23.46.51:994][378]LogViewport: Scene viewport resized to 1526x503, mode Windowed.
+[2024.07.21-23.46.52:032][379]LogViewport: Scene viewport resized to 1526x434, mode Windowed.
+[2024.07.21-23.46.52:070][380]LogViewport: Scene viewport resized to 1526x408, mode Windowed.
+[2024.07.21-23.46.52:110][381]LogViewport: Scene viewport resized to 1526x389, mode Windowed.
+[2024.07.21-23.46.52:147][382]LogViewport: Scene viewport resized to 1526x387, mode Windowed.
+[2024.07.21-23.46.59:038][ 80]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.21-23.48.52:913][786]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.07.21-23.49.28:794][106]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.21-23.49.28:816][106]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.21-23.49.28:827][107]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.21-23.49.32:135][457]LogContentBrowser: Attempting asset rename: NewFolder -> Expanding
+[2024.07.21-23.49.32:136][457]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.21-23.49.38:396][ 92]LogContentBrowser: Attempting asset rename: Expanding -> ExpandingContent
+[2024.07.21-23.49.41:494][380]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.21-23.49.41:514][380]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.21-23.49.41:552][382]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.21-23.49.43:770][624]LogContentBrowser: Attempting asset rename: NewFolder -> Level
+[2024.07.21-23.49.43:771][624]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.21-23.49.47:796][ 14]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.21-23.49.47:814][ 14]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.21-23.49.47:825][ 15]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.21-23.49.53:076][565]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprint
+[2024.07.21-23.49.53:077][565]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.21-23.50.04:403][ 46]LogSlate: Window 'Save Level As' being destroyed
+[2024.07.21-23.50.04:765][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.07.21-23.50.04:773][ 46]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006920 seconds
+[2024.07.21-23.50.04:783][ 46]LogSavePackage: Moving output files for package: /Game/ExpandingContent/Level/Konrad
+[2024.07.21-23.50.04:783][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/Konrad83BE058B4A834799C06F608B6C5DA67B.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/ExpandingContent/Level/Konrad.umap'
+[2024.07.21-23.50.04:856][ 46]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/ExpandingContent/Level/Konrad_HLOD0_Instancing
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/C8/TO5UTBKKH65AHPTMSWV84G
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/9/NM/0DXKSMUXSS35NV5Y3MWQ1Q
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/5/ML/4FPGNZAC65S64ZQLEAJUGP
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/9/15/SB7LOFT0IIXLV88GN3UU6G
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/1/0D/ACA8Q2VD9ZHW7L4V513D7Z
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/E/7K/1OCB4ZS1PBTP1JJAGU36F7
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/B/T3/ND0QBLNXZ3OHBCFWYM6GN2
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/6A/NQO8AD2MLR6FM8POWOI84O
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/MS/BD2HUVIAOIPNHBB2F56CM1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/GG/7U9WYCGVUAAS5JL33E87TT
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/5E/BEKZZQ39OLOM54ECYQJ0IJ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/A7/WJEY5PUZF9JSO9ENRR9N17
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/22/REWYBV4T80MRY65WB9T1KH
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/MV/AN2DW0W2Z9X6BK8DGGOWKA
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/GJ/98UBI83NSLJOYJNKR82NFP
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/WW/5XXN6JQZSZURUKM0SAJ9N3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/NJ/PG4WLSPD0LUYT2DZZ3BYKW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/53/NHYFVDO5D8DIPBJ14GMKN1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/2J/IVUPMEWX73B5C0T18B1IBS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/4H/J1OSN7HMIZ8P5DT6CFOIDE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/HX/H00VNE3NOX7K431I4CLZ8R
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/L3/4ROVW714T8QNFP4A3IUD16
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/6EIM2JQBQKS6R9LG5FEGEI
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/8R/FUXJZ13I0127HAQ2JXD0KL
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/J8/WQKVKFQOTAIMBNZ134POWB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/RG/ZU67M22PEC8ZDD6PYRO1AJ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/XF/ERZBQZN5WKMWGLPMLWHJMU
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/HJ/ZRQ0OT6V68LLJNSFUED5VD
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/BE/212JM1SIL486BNIKMZLUC3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/PU/HUX8GTMBFS22BTEKJ0Y44O
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/3R/JGEBXCC94JDK6BNPMMKSGJ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/EO/ZF6G5H9XHANNX12RANSHCR
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/TV/G4T6XC6A68I80BQ804HCRN
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/22/A92QTY4L0TQJAUEETJZX5P
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/JD/GK9V7VGYR5XUP1LKQG04YW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/26/V7C3QYVTUPCK935V3IFEOC
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/RZ/UITKFTLEMMIVRFGIP801KR
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/FR/PTE334T3OXDSL3WS6EAJQH
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/F6/WJ31QQKDZ0P1Y3A9IRFX71
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/11/NX2RQFQCKIKF83LH9Q3544
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/BG/DK3K3GDP464PFD822NU2S2
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/I2/K7D5KVH1RDU4A9WM00N2AA
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/RU/44GXCZ4TW3JAPRYI0ZVVKW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/ZO/3VZT7VDUEJ1CEFSF2VTU7Q
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/WW/BBE0IFL4X403CSQY5KGM06
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/Q8/T4047JG48R5E2ZM53IF3NG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/7B/Z3V4A6SYXMNNI1E7HF4XJ1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/A8/17KJ7XP7TI81UHIS3HJHZ7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/U7/X0MXFWS8LL2WN09L95ANRB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/QU/SKFB0WNWR64DATK8IXQYH7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/4Z/BBZ000FKQQRKCLD91NB1PG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/1C/VVI95MBKP2VC3MTVVZTR4P
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/XB/10OT7K5VQPM8WOC14K2J5X
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/SI/WD96M4D8VQC5XRQM7Y5PIV
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/EK/5BBHYVTF5LNX3I2OLWM83D
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/K0/NC14XRFE3D2624DV7XFN41
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/BK/38HJXVU4SF7MQ6ZFONJE64
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/FY/71M0LN2VTWLT4E7O1GGSKK
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/CT/GSBN4OT772CH1SYQMD85WD
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/GY/WEHSD06ZHZEZSTVN9NBYWE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/RV/30VAH5F0H9RVRHGLEJ0ODO
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/TY/6OO67JBWVRFHMDP8AO4NHG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/9S/8JFCKQ3055VGKG1L3N6WT6
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/UK/8S2YH7MPC73K4GHUZ7LBD3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/7J/9B8PY1SZ7AAEK1HH234YDQ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/36/GVP3D2YKMPU7U924E9MWYN
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/1P/ZXUQIAFTEMT075DUWYSGTD
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/6K/HPHRRCAVQ9Z8FGM9C97HRX
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/GY/D8BAO42K1SMKZDN6UPTA0S
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/BT/32QINFXUQE371BOIQIH4NB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/SS/WGT4FM99Z2GQ7P7JXHXGW2
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/8K/UNYS05YDQFEHSMUEUVE7UI
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/5P/9RBM2WG5Q5C8LL8HYCM8KS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/9W/SN5R0CTHCKFMOJT5YGAKB7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/JB/V2JISCDJ60IO17BNQ50OL0
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/FL/2YJJZZBW8YKWJHMOEWMINF
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/VW/JO3RNM4DX0VBQZS5W0QYKE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/PC/XWV9PXVSJS01Z3AQN2XVUB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/8M/6DX1B5L5TWZOOR41AS5H9R
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/6N/TKWQT9Z1A50FT1UIFKB20Q
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/7V/ST4BGKPBUQTQ5FK1WPF7T3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/KH/PZXFDO017GAK0QXP5CXGP7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/HO6B3RNE3CG9C1X7U0WB3H
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/U5/U6Y4BI84Y2I9SQMNR12W8U
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/SG/KOC2I97JY73N4JQQGQ4BSQ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/CV/DJCS13JYHIITH648VJJW9N
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/3A/8HSNFWH1SAT137I5IL2J46
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/3O/L2KMC34Z0WO3B18R261MB1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/C6/QZT1ILN0F766J28910DCOZ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/ZV/Z4JO8AH1H08Q9WUSACUD7T
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/O9/XZHGE86MXFZJ0GOZOTIK75
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/XI/KQIFI5NRMOVDPDI22QDTDR
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/PB/35CWPN73B4ZBM3VP39R43K
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/UO/2NZ72ZUV5UNR7SZPBJUKR1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/6N/552ADHVG39GPWZAR2DTTJ7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/VO/7ZCIIMDNA1MEMMFIQO4165
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/88/HL15OVS00P53MABU11PKR9
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/AR/BHC6B6KTX3TVPEJYIXDFQ9
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/VY/OBQ46BXHF26TTOEUGF8G58
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/JF/B501UY0D5IAABG25EKEFTZ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/1V/3D5CSEO5WUIHV6T02VL4ZK
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/8E/FFU2FV640LWJEY9LHG1M39
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/T9/CVP4NZ214FPV872NMDWOIY
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/O9/EWGPHLCXTC0YIWPO24QYRE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/4Q/SUYB9IFSGZ1LY7JCA958LS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/IQ/GRJJ60UKTI9H27SZI2EEXG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/MB/RIU75EWHQBY9E97QUV3688
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/OK/A4ZA45C34J37CCR6MHLNVO
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/V0/NC0SBZCM3OCCEH00ISBFXF
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/YV/RE3ZNUAE3Z6J8L037QO3OS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/DJ/LRU9I5N5H6592Y0WZHDFAY
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/AF/ESYNC0AQ10YI9C707SMYE0
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/8Q/7G62K4D6MB8C2X98UP9FL7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/S5/6T6Q3EPWTURF9CN8WF9NT3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/X3/2ZM1229WSYZJ6XA7O210E8
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/CA/QG957EZDU49Z3BP4XEE9JL
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/J9/DWUSWHFAHOMJVMX1XD1E6R
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/0E/5LGPH65CFQLWWSCYON7R2E
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/1A/TF98NN0387LBFZCIMNALYW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/IY/UN68ENHSFFAIAP13CRVELM
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/IL/L08IHST76FW05NUGF7I3T4
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/TQ/YQAHZ4VIOND5ZAXLMO8TF4
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/0X/0MO9QLI9BROC4PK3EUQAQF
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/6Q/FXZ0XG3FQ0VWNT8C8CU3YO
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/TW/4B6YP1XYG30RW6YHKUR90F
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/L0/HJPRA0BSOCJF0Q3DF2XE2X
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/ZX/3QAW0XB2U76P1I44ECOP7V
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/X7/WSQXEHW71S0274F7RBU3D3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/6Q/PIZQL87RIG0NLXXC343IFF
+[2024.07.21-23.50.04:857][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.21-23.50.04:858][ 46]LogSavePackage: Moving output files for package: /Game/ExpandingContent/Level/Konrad_HLOD0_Instancing
+[2024.07.21-23.50.04:858][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/Konrad_HLOD0_Instancing547783724084AD33051CD1A02F4D6D13.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/ExpandingContent/Level/Konrad_HLOD0_Instancing.uasset'
+[2024.07.21-23.50.04:864][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/C8/TO5UTBKKH65AHPTMSWV84G
+[2024.07.21-23.50.04:864][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/TO5UTBKKH65AHPTMSWV84GBF1BFAE34F395D8E72D33581C002637A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/4/C8/TO5UTBKKH65AHPTMSWV84G.uasset'
+[2024.07.21-23.50.04:869][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ExpandingContent/Level/Konrad/9/NM/0DXKSMUXSS35NV5Y3MWQ1Q
+[2024.07.21-23.50.04:869][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/0DXKSMUXSS35NV5Y3MWQ1Q1EA16292431F5723B0A9E69356752CEC.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalObjects__/ExpandingContent/Level/Konrad/9/NM/0DXKSMUXSS35NV5Y3MWQ1Q.uasset'
+[2024.07.21-23.50.04:872][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ExpandingContent/Level/Konrad/5/ML/4FPGNZAC65S64ZQLEAJUGP
+[2024.07.21-23.50.04:872][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/4FPGNZAC65S64ZQLEAJUGPF392E4F54D27F2216391B880245CC495.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalObjects__/ExpandingContent/Level/Konrad/5/ML/4FPGNZAC65S64ZQLEAJUGP.uasset'
+[2024.07.21-23.50.04:875][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ExpandingContent/Level/Konrad/9/15/SB7LOFT0IIXLV88GN3UU6G
+[2024.07.21-23.50.04:875][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/SB7LOFT0IIXLV88GN3UU6G66B2555F447B8E038A1ABAA836524733.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalObjects__/ExpandingContent/Level/Konrad/9/15/SB7LOFT0IIXLV88GN3UU6G.uasset'
+[2024.07.21-23.50.04:877][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ExpandingContent/Level/Konrad/1/0D/ACA8Q2VD9ZHW7L4V513D7Z
+[2024.07.21-23.50.04:877][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ACA8Q2VD9ZHW7L4V513D7Z8DEBD81640065A5B0F88648CEF8FDD40.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalObjects__/ExpandingContent/Level/Konrad/1/0D/ACA8Q2VD9ZHW7L4V513D7Z.uasset'
+[2024.07.21-23.50.04:881][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ExpandingContent/Level/Konrad/E/7K/1OCB4ZS1PBTP1JJAGU36F7
+[2024.07.21-23.50.04:881][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/1OCB4ZS1PBTP1JJAGU36F709DC4DC84AF7A3548DB712A65A5242F9.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalObjects__/ExpandingContent/Level/Konrad/E/7K/1OCB4ZS1PBTP1JJAGU36F7.uasset'
+[2024.07.21-23.50.04:900][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/ExpandingContent/Level/Konrad/B/T3/ND0QBLNXZ3OHBCFWYM6GN2
+[2024.07.21-23.50.04:900][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ND0QBLNXZ3OHBCFWYM6GN2574D0EDD4264046F2F41CE9901B7974D.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalObjects__/ExpandingContent/Level/Konrad/B/T3/ND0QBLNXZ3OHBCFWYM6GN2.uasset'
+[2024.07.21-23.50.04:905][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/6A/NQO8AD2MLR6FM8POWOI84O
+[2024.07.21-23.50.04:906][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/NQO8AD2MLR6FM8POWOI84O5754F239489A994E565646B5735EAB90.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/6A/NQO8AD2MLR6FM8POWOI84O.uasset'
+[2024.07.21-23.50.04:909][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/MS/BD2HUVIAOIPNHBB2F56CM1
+[2024.07.21-23.50.04:909][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/BD2HUVIAOIPNHBB2F56CM174F40669476664E0604BAC9B9E7814CB.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/MS/BD2HUVIAOIPNHBB2F56CM1.uasset'
+[2024.07.21-23.50.04:912][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/GG/7U9WYCGVUAAS5JL33E87TT
+[2024.07.21-23.50.04:912][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/7U9WYCGVUAAS5JL33E87TT5DB90E3441687445772A059A34DE7A83.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/GG/7U9WYCGVUAAS5JL33E87TT.uasset'
+[2024.07.21-23.50.04:916][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/5E/BEKZZQ39OLOM54ECYQJ0IJ
+[2024.07.21-23.50.04:916][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/BEKZZQ39OLOM54ECYQJ0IJC1085FAD4087E0F68B49268070AD2BB6.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/4/5E/BEKZZQ39OLOM54ECYQJ0IJ.uasset'
+[2024.07.21-23.50.04:921][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/A7/WJEY5PUZF9JSO9ENRR9N17
+[2024.07.21-23.50.04:921][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/WJEY5PUZF9JSO9ENRR9N1760B7457241A1C42AC2FFEAB972FA335A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/A7/WJEY5PUZF9JSO9ENRR9N17.uasset'
+[2024.07.21-23.50.04:925][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/22/REWYBV4T80MRY65WB9T1KH
+[2024.07.21-23.50.04:925][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/REWYBV4T80MRY65WB9T1KHF42768D743E111449F118B98B3C08274.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/9/22/REWYBV4T80MRY65WB9T1KH.uasset'
+[2024.07.21-23.50.04:928][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/MV/AN2DW0W2Z9X6BK8DGGOWKA
+[2024.07.21-23.50.04:928][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/AN2DW0W2Z9X6BK8DGGOWKA65BDB2AF4AB437A0CB675B840DD31A9E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/MV/AN2DW0W2Z9X6BK8DGGOWKA.uasset'
+[2024.07.21-23.50.04:932][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/GJ/98UBI83NSLJOYJNKR82NFP
+[2024.07.21-23.50.04:932][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/98UBI83NSLJOYJNKR82NFP22A173BB43701B8D834C4184DCDD3071.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/6/GJ/98UBI83NSLJOYJNKR82NFP.uasset'
+[2024.07.21-23.50.04:937][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/WW/5XXN6JQZSZURUKM0SAJ9N3
+[2024.07.21-23.50.04:938][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/5XXN6JQZSZURUKM0SAJ9N35B46153E4080C8E8EF74D98651BF7CCE.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/6/WW/5XXN6JQZSZURUKM0SAJ9N3.uasset'
+[2024.07.21-23.50.04:956][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/NJ/PG4WLSPD0LUYT2DZZ3BYKW
+[2024.07.21-23.50.04:956][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/PG4WLSPD0LUYT2DZZ3BYKW1FD0AFBF490FACD8706FD2A44FC4C3C2.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/4/NJ/PG4WLSPD0LUYT2DZZ3BYKW.uasset'
+[2024.07.21-23.50.04:971][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/53/NHYFVDO5D8DIPBJ14GMKN1
+[2024.07.21-23.50.04:971][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/NHYFVDO5D8DIPBJ14GMKN1C7CF59834048C500D41AAD909BF54502.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/53/NHYFVDO5D8DIPBJ14GMKN1.uasset'
+[2024.07.21-23.50.04:985][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/2J/IVUPMEWX73B5C0T18B1IBS
+[2024.07.21-23.50.04:985][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/IVUPMEWX73B5C0T18B1IBS428103594EC86D0B419B06B557D50A77.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/2J/IVUPMEWX73B5C0T18B1IBS.uasset'
+[2024.07.21-23.50.04:999][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/4H/J1OSN7HMIZ8P5DT6CFOIDE
+[2024.07.21-23.50.04:999][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/J1OSN7HMIZ8P5DT6CFOIDE19EAB1F442015DE3318DCC9F487F99D0.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/6/4H/J1OSN7HMIZ8P5DT6CFOIDE.uasset'
+[2024.07.21-23.50.05:015][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/HX/H00VNE3NOX7K431I4CLZ8R
+[2024.07.21-23.50.05:015][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/H00VNE3NOX7K431I4CLZ8RA693E22F47438418E82E2F9D4D0D159D.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/HX/H00VNE3NOX7K431I4CLZ8R.uasset'
+[2024.07.21-23.50.05:028][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/L3/4ROVW714T8QNFP4A3IUD16
+[2024.07.21-23.50.05:028][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/4ROVW714T8QNFP4A3IUD16A626183C404D42C2900939AE5B4FD975.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/L3/4ROVW714T8QNFP4A3IUD16.uasset'
+[2024.07.21-23.50.05:041][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/6EIM2JQBQKS6R9LG5FEGEI
+[2024.07.21-23.50.05:041][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/6EIM2JQBQKS6R9LG5FEGEI98A4CF414951C29DA9998F849BE36C3A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/6EIM2JQBQKS6R9LG5FEGEI.uasset'
+[2024.07.21-23.50.05:056][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/8R/FUXJZ13I0127HAQ2JXD0KL
+[2024.07.21-23.50.05:056][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/FUXJZ13I0127HAQ2JXD0KL7ACE4EF24742396A6C51CBBB19B601E9.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/8R/FUXJZ13I0127HAQ2JXD0KL.uasset'
+[2024.07.21-23.50.05:070][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/J8/WQKVKFQOTAIMBNZ134POWB
+[2024.07.21-23.50.05:070][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/WQKVKFQOTAIMBNZ134POWB68CFE9FB4CCBC66141CFE8A5BE442BF7.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/J8/WQKVKFQOTAIMBNZ134POWB.uasset'
+[2024.07.21-23.50.05:086][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/RG/ZU67M22PEC8ZDD6PYRO1AJ
+[2024.07.21-23.50.05:086][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ZU67M22PEC8ZDD6PYRO1AJE6D762D347CDF7D6D1B1318B358D757A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/RG/ZU67M22PEC8ZDD6PYRO1AJ.uasset'
+[2024.07.21-23.50.05:100][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/XF/ERZBQZN5WKMWGLPMLWHJMU
+[2024.07.21-23.50.05:100][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ERZBQZN5WKMWGLPMLWHJMU23DE640D47FBDCB68BA4BA922E37FE0A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/9/XF/ERZBQZN5WKMWGLPMLWHJMU.uasset'
+[2024.07.21-23.50.05:113][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/HJ/ZRQ0OT6V68LLJNSFUED5VD
+[2024.07.21-23.50.05:113][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ZRQ0OT6V68LLJNSFUED5VD60CD4FEB4B895ED71AB54F80A5AC23D8.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/HJ/ZRQ0OT6V68LLJNSFUED5VD.uasset'
+[2024.07.21-23.50.05:134][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/BE/212JM1SIL486BNIKMZLUC3
+[2024.07.21-23.50.05:134][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/212JM1SIL486BNIKMZLUC3C06AAC654454D2E50E1578843D8D269E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/BE/212JM1SIL486BNIKMZLUC3.uasset'
+[2024.07.21-23.50.05:148][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/PU/HUX8GTMBFS22BTEKJ0Y44O
+[2024.07.21-23.50.05:148][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/HUX8GTMBFS22BTEKJ0Y44O3AFE64A54D876AD915B3C8800B014D9A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/PU/HUX8GTMBFS22BTEKJ0Y44O.uasset'
+[2024.07.21-23.50.05:161][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/3R/JGEBXCC94JDK6BNPMMKSGJ
+[2024.07.21-23.50.05:161][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/JGEBXCC94JDK6BNPMMKSGJFE8B1197462A93BC5B09DBABD311DFAA.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/3R/JGEBXCC94JDK6BNPMMKSGJ.uasset'
+[2024.07.21-23.50.05:176][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/EO/ZF6G5H9XHANNX12RANSHCR
+[2024.07.21-23.50.05:176][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ZF6G5H9XHANNX12RANSHCRE35CC0DE4CD264405CD1E292A6B3B89D.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/EO/ZF6G5H9XHANNX12RANSHCR.uasset'
+[2024.07.21-23.50.05:189][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/TV/G4T6XC6A68I80BQ804HCRN
+[2024.07.21-23.50.05:189][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/G4T6XC6A68I80BQ804HCRNF69E4E944E78AD33CC7F8CB16DD0E156.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/4/TV/G4T6XC6A68I80BQ804HCRN.uasset'
+[2024.07.21-23.50.05:204][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/22/A92QTY4L0TQJAUEETJZX5P
+[2024.07.21-23.50.05:204][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/A92QTY4L0TQJAUEETJZX5PEB83116348703CD4B40B4984D66E641D.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/22/A92QTY4L0TQJAUEETJZX5P.uasset'
+[2024.07.21-23.50.05:219][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/JD/GK9V7VGYR5XUP1LKQG04YW
+[2024.07.21-23.50.05:219][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/GK9V7VGYR5XUP1LKQG04YWC70B0C9F42D491D6AB6B5F86E6ABB898.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/JD/GK9V7VGYR5XUP1LKQG04YW.uasset'
+[2024.07.21-23.50.05:232][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/26/V7C3QYVTUPCK935V3IFEOC
+[2024.07.21-23.50.05:232][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/V7C3QYVTUPCK935V3IFEOC65D2515A4374584AD7F71CBEF7278887.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/26/V7C3QYVTUPCK935V3IFEOC.uasset'
+[2024.07.21-23.50.05:246][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/RZ/UITKFTLEMMIVRFGIP801KR
+[2024.07.21-23.50.05:246][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/UITKFTLEMMIVRFGIP801KRA0372774485365DE1D38E8B2715BC7A0.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/RZ/UITKFTLEMMIVRFGIP801KR.uasset'
+[2024.07.21-23.50.05:262][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/FR/PTE334T3OXDSL3WS6EAJQH
+[2024.07.21-23.50.05:262][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/PTE334T3OXDSL3WS6EAJQHF469BCE2427B7C511FA030BF28934244.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/FR/PTE334T3OXDSL3WS6EAJQH.uasset'
+[2024.07.21-23.50.05:275][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/F6/WJ31QQKDZ0P1Y3A9IRFX71
+[2024.07.21-23.50.05:275][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/WJ31QQKDZ0P1Y3A9IRFX71F760233E4B34F10B66D348ADA00E523F.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/F6/WJ31QQKDZ0P1Y3A9IRFX71.uasset'
+[2024.07.21-23.50.05:290][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/11/NX2RQFQCKIKF83LH9Q3544
+[2024.07.21-23.50.05:290][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/NX2RQFQCKIKF83LH9Q35445405DB634B24E9A494AA479DA22349F0.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/2/11/NX2RQFQCKIKF83LH9Q3544.uasset'
+[2024.07.21-23.50.05:302][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/BG/DK3K3GDP464PFD822NU2S2
+[2024.07.21-23.50.05:303][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/DK3K3GDP464PFD822NU2S24670783948B45EF627E144BCBA9D7085.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/BG/DK3K3GDP464PFD822NU2S2.uasset'
+[2024.07.21-23.50.05:316][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/I2/K7D5KVH1RDU4A9WM00N2AA
+[2024.07.21-23.50.05:316][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/K7D5KVH1RDU4A9WM00N2AA52A4BDFE4BAB19757D6081B5E4140DED.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/I2/K7D5KVH1RDU4A9WM00N2AA.uasset'
+[2024.07.21-23.50.05:333][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/RU/44GXCZ4TW3JAPRYI0ZVVKW
+[2024.07.21-23.50.05:333][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/44GXCZ4TW3JAPRYI0ZVVKW4707274F48150E0B704684892F099546.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/B/RU/44GXCZ4TW3JAPRYI0ZVVKW.uasset'
+[2024.07.21-23.50.05:346][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/ZO/3VZT7VDUEJ1CEFSF2VTU7Q
+[2024.07.21-23.50.05:346][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/3VZT7VDUEJ1CEFSF2VTU7Q8F9DB63A44C12CD0D73C899DE36A5E59.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/ZO/3VZT7VDUEJ1CEFSF2VTU7Q.uasset'
+[2024.07.21-23.50.05:361][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/WW/BBE0IFL4X403CSQY5KGM06
+[2024.07.21-23.50.05:361][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/BBE0IFL4X403CSQY5KGM06DFEF756B426541F4A314A9B1D368D953.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/WW/BBE0IFL4X403CSQY5KGM06.uasset'
+[2024.07.21-23.50.05:375][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/Q8/T4047JG48R5E2ZM53IF3NG
+[2024.07.21-23.50.05:375][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/T4047JG48R5E2ZM53IF3NG0F5FE72A4A3CCDE14420E3ADDDB15F9F.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/Q8/T4047JG48R5E2ZM53IF3NG.uasset'
+[2024.07.21-23.50.05:389][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/7B/Z3V4A6SYXMNNI1E7HF4XJ1
+[2024.07.21-23.50.05:389][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/Z3V4A6SYXMNNI1E7HF4XJ154DAD0DE484C98802ACE458C3D14764C.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/7B/Z3V4A6SYXMNNI1E7HF4XJ1.uasset'
+[2024.07.21-23.50.05:404][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/A8/17KJ7XP7TI81UHIS3HJHZ7
+[2024.07.21-23.50.05:405][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/17KJ7XP7TI81UHIS3HJHZ7FA6DCB45401868CF1F5C41B995CB2837.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/A8/17KJ7XP7TI81UHIS3HJHZ7.uasset'
+[2024.07.21-23.50.05:419][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/U7/X0MXFWS8LL2WN09L95ANRB
+[2024.07.21-23.50.05:420][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/X0MXFWS8LL2WN09L95ANRB8AFA8F41427C360698D82991EDBC9EE8.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/U7/X0MXFWS8LL2WN09L95ANRB.uasset'
+[2024.07.21-23.50.05:434][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/QU/SKFB0WNWR64DATK8IXQYH7
+[2024.07.21-23.50.05:434][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/SKFB0WNWR64DATK8IXQYH72DB5CB0948EFABE7844907A634E6DFFA.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/QU/SKFB0WNWR64DATK8IXQYH7.uasset'
+[2024.07.21-23.50.05:450][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/4Z/BBZ000FKQQRKCLD91NB1PG
+[2024.07.21-23.50.05:450][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/BBZ000FKQQRKCLD91NB1PGFE0F415D4A5C421CCF843E87DC8E7AF1.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/4Z/BBZ000FKQQRKCLD91NB1PG.uasset'
+[2024.07.21-23.50.05:463][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/1C/VVI95MBKP2VC3MTVVZTR4P
+[2024.07.21-23.50.05:463][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/VVI95MBKP2VC3MTVVZTR4PCBA5E33643687103FE1AB7A0EAD30CA6.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/1C/VVI95MBKP2VC3MTVVZTR4P.uasset'
+[2024.07.21-23.50.05:477][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/XB/10OT7K5VQPM8WOC14K2J5X
+[2024.07.21-23.50.05:478][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/10OT7K5VQPM8WOC14K2J5XD3EE9972477CE3FCC1C586AE64476B86.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/XB/10OT7K5VQPM8WOC14K2J5X.uasset'
+[2024.07.21-23.50.05:492][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/SI/WD96M4D8VQC5XRQM7Y5PIV
+[2024.07.21-23.50.05:492][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/WD96M4D8VQC5XRQM7Y5PIV70BDB32748AF71019AA619A10299790E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/B/SI/WD96M4D8VQC5XRQM7Y5PIV.uasset'
+[2024.07.21-23.50.05:507][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/EK/5BBHYVTF5LNX3I2OLWM83D
+[2024.07.21-23.50.05:508][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/5BBHYVTF5LNX3I2OLWM83D19448130418B550A63D44D9849F998FE.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/EK/5BBHYVTF5LNX3I2OLWM83D.uasset'
+[2024.07.21-23.50.05:522][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/K0/NC14XRFE3D2624DV7XFN41
+[2024.07.21-23.50.05:522][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/NC14XRFE3D2624DV7XFN41184A841743C85E76621A12A8518594D1.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/K0/NC14XRFE3D2624DV7XFN41.uasset'
+[2024.07.21-23.50.05:536][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/BK/38HJXVU4SF7MQ6ZFONJE64
+[2024.07.21-23.50.05:536][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/38HJXVU4SF7MQ6ZFONJE647E72197844BFFF0056258EA53623C4A2.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/B/BK/38HJXVU4SF7MQ6ZFONJE64.uasset'
+[2024.07.21-23.50.05:552][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/FY/71M0LN2VTWLT4E7O1GGSKK
+[2024.07.21-23.50.05:552][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/71M0LN2VTWLT4E7O1GGSKK92EA476C4C5AB9308138A6947F5176E1.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/FY/71M0LN2VTWLT4E7O1GGSKK.uasset'
+[2024.07.21-23.50.05:568][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/CT/GSBN4OT772CH1SYQMD85WD
+[2024.07.21-23.50.05:568][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/GSBN4OT772CH1SYQMD85WD58309FDA440C0612659AAFBB5A881A69.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/2/CT/GSBN4OT772CH1SYQMD85WD.uasset'
+[2024.07.21-23.50.05:585][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/GY/WEHSD06ZHZEZSTVN9NBYWE
+[2024.07.21-23.50.05:585][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/WEHSD06ZHZEZSTVN9NBYWE4F0F0E404FA1EEE18E71169D40D78ADD.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/2/GY/WEHSD06ZHZEZSTVN9NBYWE.uasset'
+[2024.07.21-23.50.05:600][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/RV/30VAH5F0H9RVRHGLEJ0ODO
+[2024.07.21-23.50.05:600][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/30VAH5F0H9RVRHGLEJ0ODO3CF080534621ED071BD28D8509FDC912.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/RV/30VAH5F0H9RVRHGLEJ0ODO.uasset'
+[2024.07.21-23.50.05:615][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/TY/6OO67JBWVRFHMDP8AO4NHG
+[2024.07.21-23.50.05:615][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/6OO67JBWVRFHMDP8AO4NHGAA80B7EE45925D03C493989C87E8CC4B.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/6/TY/6OO67JBWVRFHMDP8AO4NHG.uasset'
+[2024.07.21-23.50.05:631][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/9S/8JFCKQ3055VGKG1L3N6WT6
+[2024.07.21-23.50.05:631][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/8JFCKQ3055VGKG1L3N6WT6F1C3C6A64D03B79D08E0499BE14BF044.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/9S/8JFCKQ3055VGKG1L3N6WT6.uasset'
+[2024.07.21-23.50.05:652][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/UK/8S2YH7MPC73K4GHUZ7LBD3
+[2024.07.21-23.50.05:652][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/8S2YH7MPC73K4GHUZ7LBD3841F91F34F6A9C5BA1EDEA8A782BB311.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/UK/8S2YH7MPC73K4GHUZ7LBD3.uasset'
+[2024.07.21-23.50.05:667][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/7J/9B8PY1SZ7AAEK1HH234YDQ
+[2024.07.21-23.50.05:667][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/9B8PY1SZ7AAEK1HH234YDQB8C6C3504C7DC9530EA228BC6976A44C.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/7J/9B8PY1SZ7AAEK1HH234YDQ.uasset'
+[2024.07.21-23.50.05:682][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/36/GVP3D2YKMPU7U924E9MWYN
+[2024.07.21-23.50.05:682][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/GVP3D2YKMPU7U924E9MWYNEC15C4C140329916E102EF9BB264568E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/2/36/GVP3D2YKMPU7U924E9MWYN.uasset'
+[2024.07.21-23.50.05:697][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/1P/ZXUQIAFTEMT075DUWYSGTD
+[2024.07.21-23.50.05:697][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ZXUQIAFTEMT075DUWYSGTD86FB2D134C5161A85202C89F0A6DE13D.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/1P/ZXUQIAFTEMT075DUWYSGTD.uasset'
+[2024.07.21-23.50.05:712][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/6K/HPHRRCAVQ9Z8FGM9C97HRX
+[2024.07.21-23.50.05:712][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/HPHRRCAVQ9Z8FGM9C97HRX323FC7164081C61FBD99E2BD437DE5CD.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/6K/HPHRRCAVQ9Z8FGM9C97HRX.uasset'
+[2024.07.21-23.50.05:729][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/GY/D8BAO42K1SMKZDN6UPTA0S
+[2024.07.21-23.50.05:729][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/D8BAO42K1SMKZDN6UPTA0SD9DAF253464767CDE34052B3EC94BA83.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/GY/D8BAO42K1SMKZDN6UPTA0S.uasset'
+[2024.07.21-23.50.05:744][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/BT/32QINFXUQE371BOIQIH4NB
+[2024.07.21-23.50.05:744][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/32QINFXUQE371BOIQIH4NB803F9E344800C41332E2C483BD238E05.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/BT/32QINFXUQE371BOIQIH4NB.uasset'
+[2024.07.21-23.50.05:759][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/SS/WGT4FM99Z2GQ7P7JXHXGW2
+[2024.07.21-23.50.05:759][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/WGT4FM99Z2GQ7P7JXHXGW23A45ED7745F603FDDEF752BFBCC0D1D0.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/SS/WGT4FM99Z2GQ7P7JXHXGW2.uasset'
+[2024.07.21-23.50.05:774][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/8K/UNYS05YDQFEHSMUEUVE7UI
+[2024.07.21-23.50.05:774][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/UNYS05YDQFEHSMUEUVE7UIC448A9E74AA3CF8D584D90BC80184FFC.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/8K/UNYS05YDQFEHSMUEUVE7UI.uasset'
+[2024.07.21-23.50.05:791][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/5P/9RBM2WG5Q5C8LL8HYCM8KS
+[2024.07.21-23.50.05:791][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/9RBM2WG5Q5C8LL8HYCM8KSC820E38C43E37B7D1D7945B682EDF2BD.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/5P/9RBM2WG5Q5C8LL8HYCM8KS.uasset'
+[2024.07.21-23.50.05:806][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/9W/SN5R0CTHCKFMOJT5YGAKB7
+[2024.07.21-23.50.05:806][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/SN5R0CTHCKFMOJT5YGAKB727223E1C495E878C90F848ACA9034B49.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/9W/SN5R0CTHCKFMOJT5YGAKB7.uasset'
+[2024.07.21-23.50.05:822][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/JB/V2JISCDJ60IO17BNQ50OL0
+[2024.07.21-23.50.05:822][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/V2JISCDJ60IO17BNQ50OL007E6F411468C26966680F49DBFB07B49.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/JB/V2JISCDJ60IO17BNQ50OL0.uasset'
+[2024.07.21-23.50.05:839][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/FL/2YJJZZBW8YKWJHMOEWMINF
+[2024.07.21-23.50.05:839][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/2YJJZZBW8YKWJHMOEWMINF5250FAA84739BD7EEED03592E7D710AC.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/FL/2YJJZZBW8YKWJHMOEWMINF.uasset'
+[2024.07.21-23.50.05:858][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/VW/JO3RNM4DX0VBQZS5W0QYKE
+[2024.07.21-23.50.05:858][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/JO3RNM4DX0VBQZS5W0QYKE480AA3AE4B7421AF79BF62B4BCBDA835.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/VW/JO3RNM4DX0VBQZS5W0QYKE.uasset'
+[2024.07.21-23.50.05:878][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/PC/XWV9PXVSJS01Z3AQN2XVUB
+[2024.07.21-23.50.05:878][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/XWV9PXVSJS01Z3AQN2XVUB6E056B4C4685EE9899C7A29B036F798D.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/9/PC/XWV9PXVSJS01Z3AQN2XVUB.uasset'
+[2024.07.21-23.50.05:894][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/8M/6DX1B5L5TWZOOR41AS5H9R
+[2024.07.21-23.50.05:894][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/6DX1B5L5TWZOOR41AS5H9R7BC1C4C2438DFDF0868442AF49D48E2F.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/8M/6DX1B5L5TWZOOR41AS5H9R.uasset'
+[2024.07.21-23.50.05:910][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/6N/TKWQT9Z1A50FT1UIFKB20Q
+[2024.07.21-23.50.05:910][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/TKWQT9Z1A50FT1UIFKB20QDB40263C4629BA6F5368FDB8B4CB79C8.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/6N/TKWQT9Z1A50FT1UIFKB20Q.uasset'
+[2024.07.21-23.50.05:931][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/7V/ST4BGKPBUQTQ5FK1WPF7T3
+[2024.07.21-23.50.05:931][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ST4BGKPBUQTQ5FK1WPF7T3B84CD6D942A2091404A58D945C6DFBD7.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/7V/ST4BGKPBUQTQ5FK1WPF7T3.uasset'
+[2024.07.21-23.50.05:943][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/KH/PZXFDO017GAK0QXP5CXGP7
+[2024.07.21-23.50.05:943][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/PZXFDO017GAK0QXP5CXGP7E8D20318495B9C1BABBF408B467E5EC2.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/KH/PZXFDO017GAK0QXP5CXGP7.uasset'
+[2024.07.21-23.50.05:953][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/HO6B3RNE3CG9C1X7U0WB3H
+[2024.07.21-23.50.05:953][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/HO6B3RNE3CG9C1X7U0WB3HC6FD888A4044C09903186491D36E2255.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/HO6B3RNE3CG9C1X7U0WB3H.uasset'
+[2024.07.21-23.50.05:973][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/U5/U6Y4BI84Y2I9SQMNR12W8U
+[2024.07.21-23.50.05:973][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/U6Y4BI84Y2I9SQMNR12W8U101AC2EC47FFD32EDE42FA9481991EC4.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/6/U5/U6Y4BI84Y2I9SQMNR12W8U.uasset'
+[2024.07.21-23.50.05:990][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/SG/KOC2I97JY73N4JQQGQ4BSQ
+[2024.07.21-23.50.05:991][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/KOC2I97JY73N4JQQGQ4BSQFB9E4E74476F9EFD235FD2AE5C0131EE.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/SG/KOC2I97JY73N4JQQGQ4BSQ.uasset'
+[2024.07.21-23.50.06:001][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/CV/DJCS13JYHIITH648VJJW9N
+[2024.07.21-23.50.06:001][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/DJCS13JYHIITH648VJJW9N0AC921AF468B1DBC7838AF8DB8586FBA.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/CV/DJCS13JYHIITH648VJJW9N.uasset'
+[2024.07.21-23.50.06:009][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/3A/8HSNFWH1SAT137I5IL2J46
+[2024.07.21-23.50.06:009][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/8HSNFWH1SAT137I5IL2J465BB13453400D7F838A3B92B8EA1A682E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/2/3A/8HSNFWH1SAT137I5IL2J46.uasset'
+[2024.07.21-23.50.06:019][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/3O/L2KMC34Z0WO3B18R261MB1
+[2024.07.21-23.50.06:019][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/L2KMC34Z0WO3B18R261MB1E2D53A004F55125CCB7551BA12FF307A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/B/3O/L2KMC34Z0WO3B18R261MB1.uasset'
+[2024.07.21-23.50.06:033][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/C6/QZT1ILN0F766J28910DCOZ
+[2024.07.21-23.50.06:033][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/QZT1ILN0F766J28910DCOZ452864E149375ABDCC40028B514249E7.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/C6/QZT1ILN0F766J28910DCOZ.uasset'
+[2024.07.21-23.50.06:042][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/ZV/Z4JO8AH1H08Q9WUSACUD7T
+[2024.07.21-23.50.06:042][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/Z4JO8AH1H08Q9WUSACUD7T2ECC3BDD404184FBC19C4BB307784693.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/ZV/Z4JO8AH1H08Q9WUSACUD7T.uasset'
+[2024.07.21-23.50.06:058][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/O9/XZHGE86MXFZJ0GOZOTIK75
+[2024.07.21-23.50.06:058][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/XZHGE86MXFZJ0GOZOTIK7533136F6C4B41537A43BD7395FA5C3AF6.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/O9/XZHGE86MXFZJ0GOZOTIK75.uasset'
+[2024.07.21-23.50.06:071][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/XI/KQIFI5NRMOVDPDI22QDTDR
+[2024.07.21-23.50.06:071][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/KQIFI5NRMOVDPDI22QDTDRB5AC8AC1423DFE2DF8E0C38C0416B22F.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/2/XI/KQIFI5NRMOVDPDI22QDTDR.uasset'
+[2024.07.21-23.50.06:082][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/PB/35CWPN73B4ZBM3VP39R43K
+[2024.07.21-23.50.06:082][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/35CWPN73B4ZBM3VP39R43K6F19F11A4588107459CD7D80D80EFCA7.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/PB/35CWPN73B4ZBM3VP39R43K.uasset'
+[2024.07.21-23.50.06:093][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/UO/2NZ72ZUV5UNR7SZPBJUKR1
+[2024.07.21-23.50.06:093][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/2NZ72ZUV5UNR7SZPBJUKR1D484C1C14CB4462A1EF4518D3ECA28D4.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/UO/2NZ72ZUV5UNR7SZPBJUKR1.uasset'
+[2024.07.21-23.50.06:103][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/6N/552ADHVG39GPWZAR2DTTJ7
+[2024.07.21-23.50.06:103][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/552ADHVG39GPWZAR2DTTJ7B1ADFED941B53F10EAF47DA1A8C7B712.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/6N/552ADHVG39GPWZAR2DTTJ7.uasset'
+[2024.07.21-23.50.06:113][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/VO/7ZCIIMDNA1MEMMFIQO4165
+[2024.07.21-23.50.06:113][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/7ZCIIMDNA1MEMMFIQO416546C44FFC4F9B55C59277808348C4C8BC.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/VO/7ZCIIMDNA1MEMMFIQO4165.uasset'
+[2024.07.21-23.50.06:124][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/88/HL15OVS00P53MABU11PKR9
+[2024.07.21-23.50.06:124][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/HL15OVS00P53MABU11PKR9CDA413D144BB05BCC27E539EDBD91B29.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/2/88/HL15OVS00P53MABU11PKR9.uasset'
+[2024.07.21-23.50.06:134][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/AR/BHC6B6KTX3TVPEJYIXDFQ9
+[2024.07.21-23.50.06:134][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/BHC6B6KTX3TVPEJYIXDFQ9CDC6829046245D76BEBA9F83EC9511E4.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/6/AR/BHC6B6KTX3TVPEJYIXDFQ9.uasset'
+[2024.07.21-23.50.06:143][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/VY/OBQ46BXHF26TTOEUGF8G58
+[2024.07.21-23.50.06:143][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/OBQ46BXHF26TTOEUGF8G586EBDDB614126124E32E6318C19548769.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/VY/OBQ46BXHF26TTOEUGF8G58.uasset'
+[2024.07.21-23.50.06:153][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/JF/B501UY0D5IAABG25EKEFTZ
+[2024.07.21-23.50.06:153][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/B501UY0D5IAABG25EKEFTZ511EBD8D4FBD4A0255A378961E141E01.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/JF/B501UY0D5IAABG25EKEFTZ.uasset'
+[2024.07.21-23.50.06:168][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/1V/3D5CSEO5WUIHV6T02VL4ZK
+[2024.07.21-23.50.06:168][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/3D5CSEO5WUIHV6T02VL4ZKCFADC6454CF26755CE4C639381249EC6.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/1V/3D5CSEO5WUIHV6T02VL4ZK.uasset'
+[2024.07.21-23.50.06:183][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/8E/FFU2FV640LWJEY9LHG1M39
+[2024.07.21-23.50.06:183][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/FFU2FV640LWJEY9LHG1M390BCE5A624470A4F141F78F8E90BC2661.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/8E/FFU2FV640LWJEY9LHG1M39.uasset'
+[2024.07.21-23.50.06:199][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/T9/CVP4NZ214FPV872NMDWOIY
+[2024.07.21-23.50.06:199][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/CVP4NZ214FPV872NMDWOIYB403B77145E5F2361F11CFB4F9BF8B34.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/7/T9/CVP4NZ214FPV872NMDWOIY.uasset'
+[2024.07.21-23.50.06:209][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/O9/EWGPHLCXTC0YIWPO24QYRE
+[2024.07.21-23.50.06:209][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/EWGPHLCXTC0YIWPO24QYREB3D8877F425A50DDCADD7AA7BCEE1972.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/O9/EWGPHLCXTC0YIWPO24QYRE.uasset'
+[2024.07.21-23.50.06:219][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/4Q/SUYB9IFSGZ1LY7JCA958LS
+[2024.07.21-23.50.06:219][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/SUYB9IFSGZ1LY7JCA958LS0CAB12204ADD410FBAC7EAB268F9E237.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/4/4Q/SUYB9IFSGZ1LY7JCA958LS.uasset'
+[2024.07.21-23.50.06:229][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/IQ/GRJJ60UKTI9H27SZI2EEXG
+[2024.07.21-23.50.06:229][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/GRJJ60UKTI9H27SZI2EEXGA4AF15F549AB9A9DA007C8BF8C0398BC.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/IQ/GRJJ60UKTI9H27SZI2EEXG.uasset'
+[2024.07.21-23.50.06:238][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/MB/RIU75EWHQBY9E97QUV3688
+[2024.07.21-23.50.06:238][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/RIU75EWHQBY9E97QUV36885987CE0F4B5B7EDF6677EBA48A12826E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/MB/RIU75EWHQBY9E97QUV3688.uasset'
+[2024.07.21-23.50.06:248][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/OK/A4ZA45C34J37CCR6MHLNVO
+[2024.07.21-23.50.06:248][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/A4ZA45C34J37CCR6MHLNVOA39B978D4108B1D151EA61AC115578F4.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/OK/A4ZA45C34J37CCR6MHLNVO.uasset'
+[2024.07.21-23.50.06:258][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/V0/NC0SBZCM3OCCEH00ISBFXF
+[2024.07.21-23.50.06:258][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/NC0SBZCM3OCCEH00ISBFXF04E5A3894E90FB11E0E8C3BBEBFB119D.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/V0/NC0SBZCM3OCCEH00ISBFXF.uasset'
+[2024.07.21-23.50.06:274][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/YV/RE3ZNUAE3Z6J8L037QO3OS
+[2024.07.21-23.50.06:274][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/RE3ZNUAE3Z6J8L037QO3OSBAAB366547EC37A069CDEDB74732D178.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/D/YV/RE3ZNUAE3Z6J8L037QO3OS.uasset'
+[2024.07.21-23.50.06:284][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/DJ/LRU9I5N5H6592Y0WZHDFAY
+[2024.07.21-23.50.06:284][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/LRU9I5N5H6592Y0WZHDFAY05AC85E0460FE569C70ABF9293C3A8FF.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/DJ/LRU9I5N5H6592Y0WZHDFAY.uasset'
+[2024.07.21-23.50.06:294][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/AF/ESYNC0AQ10YI9C707SMYE0
+[2024.07.21-23.50.06:294][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/ESYNC0AQ10YI9C707SMYE062B4CAF141E5C9514A0445A78E9DAE84.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/4/AF/ESYNC0AQ10YI9C707SMYE0.uasset'
+[2024.07.21-23.50.06:304][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/8Q/7G62K4D6MB8C2X98UP9FL7
+[2024.07.21-23.50.06:304][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/7G62K4D6MB8C2X98UP9FL7AB3CF97646B22A3C50ED2C8852F56CF0.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/8Q/7G62K4D6MB8C2X98UP9FL7.uasset'
+[2024.07.21-23.50.06:313][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/S5/6T6Q3EPWTURF9CN8WF9NT3
+[2024.07.21-23.50.06:313][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/6T6Q3EPWTURF9CN8WF9NT3C1B1457D42253067E546A0A5BF07A567.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/9/S5/6T6Q3EPWTURF9CN8WF9NT3.uasset'
+[2024.07.21-23.50.06:324][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/X3/2ZM1229WSYZJ6XA7O210E8
+[2024.07.21-23.50.06:324][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/2ZM1229WSYZJ6XA7O210E8FED79D6F425B7CBE747D649A0E47ACD6.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/X3/2ZM1229WSYZJ6XA7O210E8.uasset'
+[2024.07.21-23.50.06:335][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/CA/QG957EZDU49Z3BP4XEE9JL
+[2024.07.21-23.50.06:335][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/QG957EZDU49Z3BP4XEE9JL7957F9B94A76E5ADECF3EAA68CE7820B.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/5/CA/QG957EZDU49Z3BP4XEE9JL.uasset'
+[2024.07.21-23.50.06:350][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/J9/DWUSWHFAHOMJVMX1XD1E6R
+[2024.07.21-23.50.06:350][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/DWUSWHFAHOMJVMX1XD1E6R417CCC7A4459671C59C31F90A1098679.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/J9/DWUSWHFAHOMJVMX1XD1E6R.uasset'
+[2024.07.21-23.50.06:363][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/0E/5LGPH65CFQLWWSCYON7R2E
+[2024.07.21-23.50.06:363][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/5LGPH65CFQLWWSCYON7R2E7064791C4B8B58674C097B82A4945718.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/0/0E/5LGPH65CFQLWWSCYON7R2E.uasset'
+[2024.07.21-23.50.06:379][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/1A/TF98NN0387LBFZCIMNALYW
+[2024.07.21-23.50.06:379][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/TF98NN0387LBFZCIMNALYW6CFA6019442E639F19FA9893A2D2ED83.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/B/1A/TF98NN0387LBFZCIMNALYW.uasset'
+[2024.07.21-23.50.06:388][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/IY/UN68ENHSFFAIAP13CRVELM
+[2024.07.21-23.50.06:388][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/UN68ENHSFFAIAP13CRVELM3C12459E4F21F07B7AC616A515BB470B.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/E/IY/UN68ENHSFFAIAP13CRVELM.uasset'
+[2024.07.21-23.50.06:397][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/IL/L08IHST76FW05NUGF7I3T4
+[2024.07.21-23.50.06:397][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/L08IHST76FW05NUGF7I3T4EB1A7D6F485F5575BC210DB354472269.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/IL/L08IHST76FW05NUGF7I3T4.uasset'
+[2024.07.21-23.50.06:408][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/TQ/YQAHZ4VIOND5ZAXLMO8TF4
+[2024.07.21-23.50.06:408][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/YQAHZ4VIOND5ZAXLMO8TF45A0C081F44A736D8DF3ED9B89782242A.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/TQ/YQAHZ4VIOND5ZAXLMO8TF4.uasset'
+[2024.07.21-23.50.06:422][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/0X/0MO9QLI9BROC4PK3EUQAQF
+[2024.07.21-23.50.06:422][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/0MO9QLI9BROC4PK3EUQAQF72514355418118952B1E768A63204518.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/0X/0MO9QLI9BROC4PK3EUQAQF.uasset'
+[2024.07.21-23.50.06:431][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/6Q/FXZ0XG3FQ0VWNT8C8CU3YO
+[2024.07.21-23.50.06:431][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/FXZ0XG3FQ0VWNT8C8CU3YO4914CB0646A81AC23FD950B5B223E595.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/3/6Q/FXZ0XG3FQ0VWNT8C8CU3YO.uasset'
+[2024.07.21-23.50.06:439][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/TW/4B6YP1XYG30RW6YHKUR90F
+[2024.07.21-23.50.06:439][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/4B6YP1XYG30RW6YHKUR90F2B3A9FE7468B117568F6B2BFD13AF17E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/8/TW/4B6YP1XYG30RW6YHKUR90F.uasset'
+[2024.07.21-23.50.06:449][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/L0/HJPRA0BSOCJF0Q3DF2XE2X
+[2024.07.21-23.50.06:449][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/HJPRA0BSOCJF0Q3DF2XE2XF1B4DB3B43B754412BDA6B86A8EFF14E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/C/L0/HJPRA0BSOCJF0Q3DF2XE2X.uasset'
+[2024.07.21-23.50.06:459][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/ZX/3QAW0XB2U76P1I44ECOP7V
+[2024.07.21-23.50.06:459][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/3QAW0XB2U76P1I44ECOP7VAC028A564905FDD51DEA459BB241552B.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/A/ZX/3QAW0XB2U76P1I44ECOP7V.uasset'
+[2024.07.21-23.50.06:468][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/X7/WSQXEHW71S0274F7RBU3D3
+[2024.07.21-23.50.06:468][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/WSQXEHW71S0274F7RBU3D3A856D52D487073D6BBA141A889AB4F1E.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/X7/WSQXEHW71S0274F7RBU3D3.uasset'
+[2024.07.21-23.50.06:476][ 46]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/6Q/PIZQL87RIG0NLXXC343IFF
+[2024.07.21-23.50.06:476][ 46]LogSavePackage: Moving '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Saved/PIZQL87RIG0NLXXC343IFF1D4A2150493997C36A7281BF9ECF37CF.tmp' to '../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/__ExternalActors__/ExpandingContent/Level/Konrad/1/6Q/PIZQL87RIG0NLXXC343IFF.uasset'
+[2024.07.21-23.50.06:483][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.62 sec
+[2024.07.21-23.50.06:497][ 46]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/ExpandingContent/Level/Konrad_HLOD0_Instancing
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/C8/TO5UTBKKH65AHPTMSWV84G
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/9/NM/0DXKSMUXSS35NV5Y3MWQ1Q
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/5/ML/4FPGNZAC65S64ZQLEAJUGP
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/9/15/SB7LOFT0IIXLV88GN3UU6G
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/1/0D/ACA8Q2VD9ZHW7L4V513D7Z
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/E/7K/1OCB4ZS1PBTP1JJAGU36F7
+/Game/__ExternalObjects__/ExpandingContent/Level/Konrad/B/T3/ND0QBLNXZ3OHBCFWYM6GN2
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/6A/NQO8AD2MLR6FM8POWOI84O
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/MS/BD2HUVIAOIPNHBB2F56CM1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/GG/7U9WYCGVUAAS5JL33E87TT
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/5E/BEKZZQ39OLOM54ECYQJ0IJ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/A7/WJEY5PUZF9JSO9ENRR9N17
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/22/REWYBV4T80MRY65WB9T1KH
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/MV/AN2DW0W2Z9X6BK8DGGOWKA
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/GJ/98UBI83NSLJOYJNKR82NFP
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/WW/5XXN6JQZSZURUKM0SAJ9N3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/NJ/PG4WLSPD0LUYT2DZZ3BYKW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/53/NHYFVDO5D8DIPBJ14GMKN1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/2J/IVUPMEWX73B5C0T18B1IBS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/4H/J1OSN7HMIZ8P5DT6CFOIDE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/HX/H00VNE3NOX7K431I4CLZ8R
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/L3/4ROVW714T8QNFP4A3IUD16
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/6EIM2JQBQKS6R9LG5FEGEI
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/8R/FUXJZ13I0127HAQ2JXD0KL
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/J8/WQKVKFQOTAIMBNZ134POWB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/RG/ZU67M22PEC8ZDD6PYRO1AJ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/XF/ERZBQZN5WKMWGLPMLWHJMU
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/HJ/ZRQ0OT6V68LLJNSFUED5VD
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/BE/212JM1SIL486BNIKMZLUC3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/PU/HUX8GTMBFS22BTEKJ0Y44O
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/3R/JGEBXCC94JDK6BNPMMKSGJ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/EO/ZF6G5H9XHANNX12RANSHCR
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/TV/G4T6XC6A68I80BQ804HCRN
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/22/A92QTY4L0TQJAUEETJZX5P
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/JD/GK9V7VGYR5XUP1LKQG04YW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/26/V7C3QYVTUPCK935V3IFEOC
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/RZ/UITKFTLEMMIVRFGIP801KR
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/FR/PTE334T3OXDSL3WS6EAJQH
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/F6/WJ31QQKDZ0P1Y3A9IRFX71
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/11/NX2RQFQCKIKF83LH9Q3544
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/BG/DK3K3GDP464PFD822NU2S2
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/I2/K7D5KVH1RDU4A9WM00N2AA
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/RU/44GXCZ4TW3JAPRYI0ZVVKW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/ZO/3VZT7VDUEJ1CEFSF2VTU7Q
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/WW/BBE0IFL4X403CSQY5KGM06
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/Q8/T4047JG48R5E2ZM53IF3NG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/7B/Z3V4A6SYXMNNI1E7HF4XJ1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/A8/17KJ7XP7TI81UHIS3HJHZ7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/U7/X0MXFWS8LL2WN09L95ANRB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/QU/SKFB0WNWR64DATK8IXQYH7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/4Z/BBZ000FKQQRKCLD91NB1PG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/1C/VVI95MBKP2VC3MTVVZTR4P
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/XB/10OT7K5VQPM8WOC14K2J5X
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/SI/WD96M4D8VQC5XRQM7Y5PIV
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/EK/5BBHYVTF5LNX3I2OLWM83D
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/K0/NC14XRFE3D2624DV7XFN41
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/BK/38HJXVU4SF7MQ6ZFONJE64
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/FY/71M0LN2VTWLT4E7O1GGSKK
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/CT/GSBN4OT772CH1SYQMD85WD
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/GY/WEHSD06ZHZEZSTVN9NBYWE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/RV/30VAH5F0H9RVRHGLEJ0ODO
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/TY/6OO67JBWVRFHMDP8AO4NHG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/9S/8JFCKQ3055VGKG1L3N6WT6
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/UK/8S2YH7MPC73K4GHUZ7LBD3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/7J/9B8PY1SZ7AAEK1HH234YDQ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/36/GVP3D2YKMPU7U924E9MWYN
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/1P/ZXUQIAFTEMT075DUWYSGTD
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/6K/HPHRRCAVQ9Z8FGM9C97HRX
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/GY/D8BAO42K1SMKZDN6UPTA0S
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/BT/32QINFXUQE371BOIQIH4NB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/SS/WGT4FM99Z2GQ7P7JXHXGW2
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/8K/UNYS05YDQFEHSMUEUVE7UI
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/5P/9RBM2WG5Q5C8LL8HYCM8KS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/9W/SN5R0CTHCKFMOJT5YGAKB7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/JB/V2JISCDJ60IO17BNQ50OL0
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/FL/2YJJZZBW8YKWJHMOEWMINF
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/VW/JO3RNM4DX0VBQZS5W0QYKE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/PC/XWV9PXVSJS01Z3AQN2XVUB
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/8M/6DX1B5L5TWZOOR41AS5H9R
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/6N/TKWQT9Z1A50FT1UIFKB20Q
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/7V/ST4BGKPBUQTQ5FK1WPF7T3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/KH/PZXFDO017GAK0QXP5CXGP7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/GC/HO6B3RNE3CG9C1X7U0WB3H
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/U5/U6Y4BI84Y2I9SQMNR12W8U
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/SG/KOC2I97JY73N4JQQGQ4BSQ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/CV/DJCS13JYHIITH648VJJW9N
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/3A/8HSNFWH1SAT137I5IL2J46
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/3O/L2KMC34Z0WO3B18R261MB1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/C6/QZT1ILN0F766J28910DCOZ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/ZV/Z4JO8AH1H08Q9WUSACUD7T
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/O9/XZHGE86MXFZJ0GOZOTIK75
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/XI/KQIFI5NRMOVDPDI22QDTDR
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/PB/35CWPN73B4ZBM3VP39R43K
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/UO/2NZ72ZUV5UNR7SZPBJUKR1
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/6N/552ADHVG39GPWZAR2DTTJ7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/VO/7ZCIIMDNA1MEMMFIQO4165
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/2/88/HL15OVS00P53MABU11PKR9
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/6/AR/BHC6B6KTX3TVPEJYIXDFQ9
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/VY/OBQ46BXHF26TTOEUGF8G58
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/JF/B501UY0D5IAABG25EKEFTZ
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/1V/3D5CSEO5WUIHV6T02VL4ZK
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/8E/FFU2FV640LWJEY9LHG1M39
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/7/T9/CVP4NZ214FPV872NMDWOIY
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/O9/EWGPHLCXTC0YIWPO24QYRE
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/4Q/SUYB9IFSGZ1LY7JCA958LS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/IQ/GRJJ60UKTI9H27SZI2EEXG
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/MB/RIU75EWHQBY9E97QUV3688
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/OK/A4ZA45C34J37CCR6MHLNVO
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/V0/NC0SBZCM3OCCEH00ISBFXF
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/D/YV/RE3ZNUAE3Z6J8L037QO3OS
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/DJ/LRU9I5N5H6592Y0WZHDFAY
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/4/AF/ESYNC0AQ10YI9C707SMYE0
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/8Q/7G62K4D6MB8C2X98UP9FL7
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/9/S5/6T6Q3EPWTURF9CN8WF9NT3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/X3/2ZM1229WSYZJ6XA7O210E8
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/5/CA/QG957EZDU49Z3BP4XEE9JL
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/J9/DWUSWHFAHOMJVMX1XD1E6R
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/0/0E/5LGPH65CFQLWWSCYON7R2E
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/B/1A/TF98NN0387LBFZCIMNALYW
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/E/IY/UN68ENHSFFAIAP13CRVELM
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/IL/L08IHST76FW05NUGF7I3T4
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/TQ/YQAHZ4VIOND5ZAXLMO8TF4
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/0X/0MO9QLI9BROC4PK3EUQAQF
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/3/6Q/FXZ0XG3FQ0VWNT8C8CU3YO
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/8/TW/4B6YP1XYG30RW6YHKUR90F
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/C/L0/HJPRA0BSOCJF0Q3DF2XE2X
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/A/ZX/3QAW0XB2U76P1I44ECOP7V
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/X7/WSQXEHW71S0274F7RBU3D3
+/Game/__ExternalActors__/ExpandingContent/Level/Konrad/1/6Q/PIZQL87RIG0NLXXC343IFF
+[2024.07.21-23.50.06:542][ 46]LogFileHelpers: Saving map 'Konrad' took 2.130
+[2024.07.21-23.50.06:542][ 46]Cmd: MAP LOAD FILE="../../../../../../Users/s220493/Desktop/Github/MajorWorkGameJam/Expanding/Content/ExpandingContent/Level/Konrad.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.21-23.50.06:542][ 46]LightingResults: New page: Lighting Build
+[2024.07.21-23.50.06:542][ 46]LoadErrors: New page: Loading map: Konrad.umap
+[2024.07.21-23.50.06:591][ 46]LogWorld: UWorld::CleanupWorld for Konrad, bSessionEnded=true, bCleanupResources=true
+[2024.07.21-23.50.06:592][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.21-23.50.06:600][ 46]LogContentBundle: [Konrad(Standalone)] Deleting container.
+[2024.07.21-23.50.06:600][ 46]MapCheck: New page: Map Check
+[2024.07.21-23.50.06:600][ 46]LightingResults: New page: Lighting Build
+[2024.07.21-23.50.06:824][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.21-23.50.06:841][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.07.21-23.50.06:848][ 46]LogAudio: Display: Audio Device (ID: 1) registered with world 'Konrad'.
+[2024.07.21-23.50.06:848][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.50.06:848][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.21-23.50.06:849][ 46]LogAIModule: Creating AISystem for world Konrad
+[2024.07.21-23.50.06:850][ 46]LogWorldPartition: ULevel::OnLevelLoaded(Konrad)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.07.21-23.50.06:850][ 46]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.21-23.50.06:850][ 46]LogWorldPartition: UWorldPartition::Initialize : World = Konrad, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.21-23.50.07:216][ 46]LogContentBundle: [Konrad(Standalone)] Creating new contrainer.
+[2024.07.21-23.50.07:216][ 46]LogWorldPartition: Display: WorldPartition initialize took 365 ms (total: 705 ms)
+[2024.07.21-23.50.07:784][ 46]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.21-23.50.07:793][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.07.21-23.50.07:797][ 46]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.21-23.50.07:797][ 46]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.672ms to complete.
+[2024.07.21-23.50.07:835][ 46]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.21-23.50.07:835][ 46]LogContentValidation: Display: Validating /Script/Engine.World /Game/ExpandingContent/Level/Konrad.Konrad
+[2024.07.21-23.50.07:835][ 46]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/ExpandingContent/Level/Konrad_HLOD0_Instancing.Konrad_HLOD0_Instancing
+[2024.07.21-23.50.07:835][ 46]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.WorldDataLayers
+[2024.07.21-23.50.07:835][ 46]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2024.07.21-23.50.07:835][ 46]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.ActorFolder_UID_C11A5F59-487C0DB2-AA58CABA-5DEDB377
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+[2024.07.21-23.50.07:836][ 46]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2024.07.21-23.50.07:837][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2024.07.21-23.50.07:838][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2024.07.21-23.50.07:839][ 46]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/ExpandingContent/Level/Konrad.Konrad:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2024.07.21-23.50.19:126][742]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.07.21-23.50.19:138][742]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.07.21-23.50.19:145][742]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.07.21-23.50.19:166][744]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.07.21-23.50.23:818][279]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BasicController
+[2024.07.21-23.50.23:919][279]LogContentBrowser: End creating deferred item NewBlueprint
