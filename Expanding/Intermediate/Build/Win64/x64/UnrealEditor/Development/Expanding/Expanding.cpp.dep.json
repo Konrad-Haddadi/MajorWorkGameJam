@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s220493\\documents\\unreal projects\\expanding\\source\\expanding\\expanding.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s220493\\documents\\unreal projects\\expanding\\intermediate\\build\\win64\\x64\\expandingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\s220493\\documents\\unreal projects\\expanding\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\expanding\\definitions.expanding.h",
+            "c:\\users\\s220493\\documents\\unreal projects\\expanding\\source\\expanding\\expanding.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

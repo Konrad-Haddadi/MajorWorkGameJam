@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Expanding.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\s220493\Documents\Unreal Projects\Expanding\Intermediate\Build\Win64\x64\ExpandingEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\s220493\Documents\Unreal Projects\Expanding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Expanding\Expanding.cpp.obj"
+"C:\Users\s220493\Documents\Unreal Projects\Expanding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Expanding\Default.rc2.res"
+/OUT:"C:\Users\s220493\Documents\Unreal Projects\Expanding\Intermediate\Build\Win64\x64\UnrealEditor\Development\Expanding\UnrealEditor-Expanding.lib"

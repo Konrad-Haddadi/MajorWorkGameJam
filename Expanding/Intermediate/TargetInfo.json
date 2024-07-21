@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Expanding",
+			"Path": "..\\Source\\Expanding.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ExpandingEditor",
+			"Path": "..\\Source\\ExpandingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
